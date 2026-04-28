@@ -1,8 +1,14 @@
 <div align="center">
 
+<a href="https://lego-portfolio-ochre.vercel.app">
+  <img src="./assets/profile-hero.svg" alt="Adarsha Chatterjee - AI Product Engineer and full-stack builder" width="100%" />
+</a>
+
+<br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Adarsha+Chatterjee;AI+Product+Engineer;Full-stack+Builder;Fintech+and+Operator+Tools;Native+macOS+%2B+AI+Workflows" alt="Typing animation: Adarsha Chatterjee, AI Product Engineer, Full-stack Builder" />
 
-I build production-minded AI and software products across fintech, learning, operator tools, and native macOS workflows.
+I turn messy workflows into shipped AI products across fintech, learning, operator tools, and native macOS productivity.
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-lego--portfolio--ochre.vercel.app-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamadarsha-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
@@ -20,7 +26,16 @@ I build production-minded AI and software products across fintech, learning, ope
 | AI product engineering | Compliance review, video learning, market intelligence, dictation, and recommendation systems |
 | Full-stack execution | Frontend, backend, database, auth, deployment, product UX, and technical documentation |
 | Fintech depth | Stock screeners, options strategy tooling, regulatory intelligence, and trading-analysis workflows |
-| Product judgment | Turns ambiguous workflows into clean user journeys, MVPs, and operator-ready interfaces |
+| Product judgment | Clean MVPs, useful defaults, and interfaces that make complex workflows feel obvious |
+
+## What To Click First
+
+| Product | Why it matters |
+|---|---|
+| [FlowKeys](https://github.com/iamadarsha/FlowKeys) | Native macOS dictation and AI rewriting, built around real desktop productivity pain |
+| [LMS Platform](https://github.com/iamadarsha/LMS-Platform) | AI video learning workflow with transcription, content intelligence, and creator tools |
+| [Assignment](https://github.com/iamadarsha/Assignment) | Compliance intelligence for regulatory circulars with evidence-grounded AI summaries |
+| [Portfolio](https://lego-portfolio-ochre.vercel.app) | The recruiter-ready project case-study surface tying the work together |
 
 ## Featured Product Portfolio
 
