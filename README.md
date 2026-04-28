@@ -1,14 +1,13 @@
 <div align="center">
 
-# Adarsha Chatterjee
-
-### AI Product Engineer | Full-stack Builder | Product-minded technologist
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Adarsha+Chatterjee;AI+Product+Engineer;Full-stack+Builder;Fintech+and+Operator+Tools;Native+macOS+%2B+AI+Workflows" alt="Typing animation: Adarsha Chatterjee, AI Product Engineer, Full-stack Builder" />
 
 I build production-minded AI and software products across fintech, learning, operator tools, and native macOS workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lego_Portfolio-facc15?style=for-the-badge)](https://github.com/iamadarsha/Lego-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-lego--portfolio--ochre.vercel.app-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamadarsha-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
 [![Email](https://img.shields.io/badge/Email-adarsha.chatterjee%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=iamadarsha&style=for-the-badge&color=58a6ff)](https://github.com/iamadarsha)
 
 </div>
 
@@ -16,25 +15,78 @@ I build production-minded AI and software products across fintech, learning, ope
 
 ## Recruiter Snapshot
 
-| What I do | Proof points |
+| Signal | What I bring |
 |---|---|
-| AI product engineering | Built AI workflows for compliance review, video learning, market analysis, dictation, and recommendations |
-| Full-stack execution | Ships frontend, backend, database, auth, deployment, and product UX end to end |
-| Fintech systems | Built market screeners, options strategy tooling, regulatory intelligence, and trading-analysis workflows |
-| Product strategy | Turns ambiguous workflows into usable systems with clear user journeys and measurable outcomes |
+| AI product engineering | Compliance review, video learning, market intelligence, dictation, and recommendation systems |
+| Full-stack execution | Frontend, backend, database, auth, deployment, product UX, and technical documentation |
+| Fintech depth | Stock screeners, options strategy tooling, regulatory intelligence, and trading-analysis workflows |
+| Product judgment | Turns ambiguous workflows into clean user journeys, MVPs, and operator-ready interfaces |
 
-## Featured Builds
+## Featured Product Portfolio
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [FlowKeys](https://github.com/iamadarsha/FlowKeys) | Native macOS dictation for Hindi, English, and Hinglish with BYO-key AI providers | Swift, SwiftUI, AppKit, Keychain, Groq, Gemini |
-| [Hyvemind](https://github.com/iamadarsha/LMS-Platform) | Video-to-knowledge learning platform with transcription, Gemini analysis, synced playback, and creator studio | React, FastAPI, Clerk, Supabase, Neon, R2, Redis |
-| [Regulatory Intel](https://github.com/iamadarsha/Assignment) | Evidence-cited AI compliance radar for RBI, IFSCA, MCA, SEBI, and FATF circulars | Next.js, SQLite, Gemini, Groq, OCR |
-| [BreakoutScan / Equifidy](https://github.com/iamadarsha/breakoutscan) | Real-time Indian stock screener with scan engines, alerts, watchlists, and market-data services | FastAPI, Next.js, Redis, Upstox, Expo |
-| [SoleMate](https://github.com/iamadarsha/Shoe-Finder-App) | AI shoe recommendation engine for Indian runners across 260 curated models | React, Vite, Gemini, Vercel |
-| [Bhukkad](https://github.com/iamadarsha/Bhukkad) | Restaurant OS for POS, KOT, tablet ordering, inventory, reservations, and realtime operations | Next.js, Socket.IO, Drizzle, SQLite |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/FlowKeys">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=FlowKeys&theme=github_dark&hide_border=true" alt="FlowKeys repo card" />
+      </a>
+      <p><strong>Native macOS dictation</strong> for Hindi, English, and Hinglish with BYO-key AI providers.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/LMS-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=LMS-Platform&theme=github_dark&hide_border=true" alt="Hyvemind repo card" />
+      </a>
+      <p><strong>AI video learning hub</strong> with transcription, Gemini analysis, synced playback, and creator studio workflows.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/Assignment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Assignment&theme=github_dark&hide_border=true" alt="Regulatory Intel repo card" />
+      </a>
+      <p><strong>Compliance intelligence desk</strong> for RBI, IFSCA, MCA, SEBI, and FATF circulars with evidence-cited AI.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/breakoutscan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=breakoutscan&theme=github_dark&hide_border=true" alt="BreakoutScan repo card" />
+      </a>
+      <p><strong>Indian market screener</strong> with live data services, scan engines, alerts, watchlists, and mobile surfaces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/Shoe-Finder-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Shoe-Finder-App&theme=github_dark&hide_border=true" alt="SoleMate repo card" />
+      </a>
+      <p><strong>AI running shoe finder</strong> across 260 curated models and 16 brands for Indian runners.</p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/iamadarsha/Bhukkad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Bhukkad&theme=github_dark&hide_border=true" alt="Bhukkad repo card" />
+      </a>
+      <p><strong>Restaurant OS</strong> for POS, KOT, tablet ordering, inventory, reservations, and realtime outlet operations.</p>
+    </td>
+  </tr>
+</table>
 
-## Core Stack
+## Technical Range
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Swift](https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Google Gemini](https://img.shields.io/badge/Gemini-fbbc04?style=for-the-badge&logo=google&logoColor=111)
+
+</div>
 
 ```text
 Frontend      React, Next.js, Vite, Tailwind CSS, shadcn/Radix UI, Framer Motion
@@ -45,12 +97,34 @@ Infra         Vercel, Railway, Render, Docker, Cloudflare R2, Upstash
 Product       PRDs, user research, MVP validation, UX strategy, GTM thinking
 ```
 
-## What I Like Building
+## Current Focus
 
-- AI tools that are usable by non-technical operators
-- Fintech intelligence systems with live data and safe fallbacks
-- Internal platforms that compress messy workflows into clear product surfaces
-- Native and web experiences where design quality makes technical work easier to trust
+- Shipping recruiter-ready AI product demos with clear READMEs, live links, and product stories
+- Building AI workflows that stay grounded in evidence, citations, fallbacks, and operator UX
+- Improving fintech and market-intelligence tooling with safer defaults and better signal quality
+- Turning video, voice, compliance, and trading workflows into polished product surfaces
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamadarsha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadarsha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadarsha&theme=github_dark" alt="GitHub profile summary" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamadarsha&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+## Ask Me About
+
+| Area | Examples |
+|---|---|
+| AI workflows | LLM fallback chains, evidence-cited answers, transcription, recommendations, prompt systems |
+| Product engineering | MVP scoping, technical architecture, frontend UX, backend APIs, deployable demos |
+| Fintech systems | Market screeners, compliance monitoring, options strategy tooling, Redis-backed live data |
+| Operator tools | Restaurant OS, learning hubs, job-search systems, admin dashboards, internal workflows |
 
 ## Open To
 
@@ -58,6 +132,10 @@ AI product engineer, full-stack engineer, product engineer, and builder-in-resid
 
 ## Contact
 
-- LinkedIn: [linkedin.com/in/iamadarsha](https://www.linkedin.com/in/iamadarsha)
-- Email: [adarsha.chatterjee@gmail.com](mailto:adarsha.chatterjee@gmail.com)
-- Portfolio repo: [Lego Portfolio](https://github.com/iamadarsha/Lego-Portfolio)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_live_site-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
+[![Email](https://img.shields.io/badge/Email-Say_hello-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
+
+</div>
