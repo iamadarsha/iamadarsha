@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=900&lines=ADARSHA+CHATTERJEE" alt="Adarsha Chatterjee" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=800&lines=ADARSHA+CHATTERJEE" alt="Adarsha Chatterjee" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI-First+Product+Manager;I+define+it.+I+prototype+it.+I+ship+it.;Fintech+%C2%B7+Consumer+Tech+%C2%B7+GenAI;From+0-to-1+PRD+to+deployed+product;The+PM+who+closes+the+loop." alt="Rotating taglines" />
 
