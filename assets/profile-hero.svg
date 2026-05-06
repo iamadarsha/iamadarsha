@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Adarsha Chatterjee GitHub profile banner</title>
-  <desc id="desc">A dark product engineering banner for Adarsha Chatterjee, AI product engineer and full-stack builder.</desc>
+  <desc id="desc">A dark product banner for Adarsha Chatterjee, AI-First Product Manager in fintech, consumer tech, and GenAI.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#09111f"/>
@@ -40,8 +40,8 @@
     <text x="38" y="22" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Open to product roles</text>
 
     <text x="0" y="91" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Adarsha Chatterjee</text>
-    <text x="1" y="132" fill="#93c5fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">AI Product Engineer / Full-stack Builder</text>
-    <text x="1" y="171" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Fintech intelligence, learning platforms, operator tools, and native macOS AI workflows.</text>
+    <text x="1" y="132" fill="#93c5fd" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700">AI-First Product Manager / Fintech &amp; GenAI</text>
+    <text x="1" y="171" fill="#cbd5e1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Fintech, consumer tech, and GenAI products — defined, designed, and shipped end-to-end.</text>
 
     <g transform="translate(0 211)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
       <rect x="0" y="0" width="142" height="34" rx="17" fill="#172554" stroke="#2563eb"/>
