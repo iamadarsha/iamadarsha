@@ -1,103 +1,256 @@
 <div align="center">
 
-<a href="https://lego-portfolio-ochre.vercel.app">
-  <img src="./assets/profile-hero.svg" alt="Adarsha Chatterjee - AI-First Product Manager" width="100%" />
-</a>
+<!-- HERO TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=48&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=900&lines=ADARSHA+CHATTERJEE" alt="Adarsha Chatterjee" />
 
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI-First+Product+Manager;I+define+it.+I+prototype+it.+I+ship+it.;Fintech+%C2%B7+Consumer+Tech+%C2%B7+GenAI;From+0-to-1+PRD+to+deployed+product;The+PM+who+closes+the+loop." alt="Rotating taglines" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Adarsha+Chatterjee;AI-First+Product+Manager;Fintech+%26+Consumer+Tech;GenAI+Products+that+Ship;End-to-End+Builder" alt="Typing animation: Adarsha Chatterjee, AI-First Product Manager" />
+<br/>
 
-I define, design, and ship AI-first products — from 0-to-1 PRDs to deployed fintech, consumer tech, and GenAI workflows. I sit at the intersection of product judgment and technical execution so nothing gets lost in translation.
+<!-- HERO BANNER GIF -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&fontColor=fff&fontSize=0" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-lego--portfolio--ochre.vercel.app-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamadarsha-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
-[![Email](https://img.shields.io/badge/Email-adarsha.chatterjee%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=iamadarsha&style=for-the-badge&color=58a6ff)](https://github.com/iamadarsha)
+<br/>
+
+<!-- IDENTITY BLOCK -->
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="140">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" alt="AI brain gif" />
+
+</td>
+<td align="left" style="padding-left:24px">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  The PM who defines the spec, prototypes the idea,          ║
+║  reviews the PR, and deploys the demo — alone.              ║
+║                                                              ║
+║  Not a "product person" who waits for engineers.            ║
+║  An AI-first builder who ships.                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- BADGES ROW -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
+[![Views](https://komarev.com/ghpvc/?username=iamadarsha&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/iamadarsha)
+
+<br/>
 
 </div>
 
 ---
 
-## PM Snapshot
+<div align="center">
 
-| Signal | What I bring |
-|---|---|
-| AI-first product thinking | I spec, validate, and ship GenAI features — not just describe them. Evidence-cited AI, fallback chains, operator UX |
-| Fintech & finance depth | Stock screeners, options strategy tooling, regulatory intelligence, compliance workflows, SEBI/RBI monitoring |
-| Consumer tech intuition | Running shoe finder, restaurant OS, learning platforms — clear user problems, clean MVP surfaces |
-| Technical ownership | I write the PRD *and* review the PR. Frontend, backend, AI pipeline, deployment — I close the loop |
-| Shipping discipline | Live demos, documented user flows, GTM thinking, and product stories that recruiters and users both understand |
+## 🧬 What Makes This Different
 
-## What To Click First
+</div>
 
-| Product | PM lens |
-|---|---|
-| [FlowKeys](https://github.com/iamadarsha/FlowKeys) | Identified accessibility gap in macOS dictation for multilingual Indian users — scoped, built, and shipped natively |
-| [LMS Platform](https://github.com/iamadarsha/LMS-Platform) | Designed full learning workflow — AI transcription, video intelligence, creator studio, and learner surfaces |
-| [Compliance Intel](https://github.com/iamadarsha/Assignment) | Defined the product for regulatory AI: SEBI/RBI/MCA circulars with evidence-grounded, citation-first AI summaries |
-| [BreakoutScan](https://github.com/iamadarsha/breakoutscan) | Fintech screener built for Indian retail traders — live data, scan engines, watchlists, and mobile-ready surfaces |
-| [Portfolio](https://lego-portfolio-ochre.vercel.app) | The end-to-end product story tying all the work together |
+> Most PMs write the spec. Most engineers build it. Most designers style it.
+> 
+> **I do all three.** I sit at the intersection of product judgment and technical execution — so nothing gets lost in translation, no cycle is wasted on misalignment, and every shipped product reflects a single coherent vision: mine.
 
-## Featured Products
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/FlowKeys">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=FlowKeys&theme=github_dark&hide_border=true" alt="FlowKeys repo card" />
-      </a>
-      <p><strong>Native macOS AI dictation</strong> — Hindi, English, and Hinglish with BYO-key AI providers. Zero cloud lock-in.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/LMS-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=LMS-Platform&theme=github_dark&hide_border=true" alt="LMS Platform repo card" />
-      </a>
-      <p><strong>AI video learning platform</strong> — transcription, Gemini-powered content analysis, synced playback, and creator workflows.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/Assignment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Assignment&theme=github_dark&hide_border=true" alt="Regulatory Intel repo card" />
-      </a>
-      <p><strong>Fintech compliance intelligence</strong> — RBI, IFSCA, MCA, SEBI, FATF circulars with evidence-cited GenAI summaries.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/breakoutscan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=breakoutscan&theme=github_dark&hide_border=true" alt="BreakoutScan repo card" />
-      </a>
-      <p><strong>Indian market screener</strong> — live data, breakout scan engine, alerts, watchlists, and mobile-ready surfaces for retail traders.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/Shoe-Finder-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Shoe-Finder-App&theme=github_dark&hide_border=true" alt="SoleMate repo card" />
-      </a>
-      <p><strong>AI consumer recommendation engine</strong> — 260 running shoe models, 16 brands, fit-matched for Indian runners.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/iamadarsha/Bhukkad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamadarsha&repo=Bhukkad&theme=github_dark&hide_border=true" alt="Bhukkad repo card" />
-      </a>
-      <p><strong>Restaurant operator OS</strong> — POS, KOT, tablet ordering, inventory, reservations, and realtime outlet intelligence.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## Product Domains
-
-```text
-Fintech & Finance     Stock screeners, options strategy, compliance monitoring, regulatory AI, trading workflows
-Consumer Tech         Recommendation engines, learning platforms, food-tech OS, productivity tools
-GenAI Products        LLM pipelines, evidence-cited AI, prompt systems, transcription, fallback chains
-Operator Tools        Internal dashboards, admin workflows, creator studios, job-search systems
+```
+        TRADITIONAL PM                    ADARSHA
+        ─────────────                    ──────────────────────────────
+        Writes PRD          →            Writes PRD + builds prototype
+        Waits for designs   →            Designs UX in code
+        Reviews builds      →            Reviews AND writes code
+        Waits for deploy    →            Deploys to production
+        Writes post-mortem  →            Already shipped v2
 ```
 
-## Technical Fluency
+</div>
 
-> I have enough depth to write the spec, review the PR, unblock the engineer, and deploy the demo — without needing a translator.
+---
+
+<div align="center">
+
+## ⚡ PM Snapshot
+
+</div>
+
+| 🔍 Signal | 💡 What I Bring |
+|---|---|
+| 🤖 **AI-first product thinking** | I spec, validate, and ship GenAI features — not just describe them. Evidence-cited AI, dual-model fallback chains, operator-grade UX |
+| 📈 **Fintech & finance depth** | Live stock screeners, options strategy tooling, regulatory intelligence, compliance workflows, SEBI/RBI/IFSCA monitoring |
+| 🛍️ **Consumer tech intuition** | Running shoe recommendation engine, restaurant OS, learning platforms — sharp user problems, clean MVP surfaces |
+| 🔧 **Technical ownership** | I write the PRD *and* review the PR. Frontend, backend, AI pipeline, deployment — I close every loop |
+| 🚀 **Shipping discipline** | Live demos on every product, documented user flows, GTM framing, and product stories that land with both recruiters and users |
+| 🌏 **India-first lens** | Products built for Indian market realities — NSE/BSE data, INR pricing, multilingual UX, SEBI/RBI compliance context |
+
+---
+
+<div align="center">
+
+## 🚀 Featured Products
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=6+products.+All+live.+All+solo+built.+All+AI-first." alt="6 products" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [BreakoutScan](https://github.com/iamadarsha/breakoutscan)
+**India's Real-Time NSE/BSE Stock Screener**
+
+```
+🎯 Problem   Manual morning scan across 500 stocks
+⚡ Solution  AI screener + dual-model trade briefs
+🧠 AI        Gemini 3.1 Pro + Llama 4 pipeline
+📡 Data      5-layer broker API waterfall
+🚀 Stack     Next.js 15 · FastAPI · Redis · Supabase
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-BreakoutScan-22c55e?style=flat-square)](https://github.com/iamadarsha/breakoutscan)
+[![Live API](https://img.shields.io/badge/Live_API-Railway_Pro-8b5cf6?style=flat-square)](https://breakoutscan-api-production.up.railway.app/health)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Regulatory Intel](https://github.com/iamadarsha/Finance-News-Analyser)
+**AI Compliance Radar for Remittance Operators**
+
+```
+🎯 Problem   Daily regulatory noise from 5 agencies
+⚡ Solution  Evidence-cited AI summaries + Q&A
+🧠 AI        Gemini 2.5 Flash → Groq LLaMA fallback
+📡 Sources   RBI · IFSCA · MCA · SEBI · FATF
+🚀 Stack     Next.js 15 · SQLite · Tesseract OCR
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-Regulatory_Intel-22c55e?style=flat-square)](https://github.com/iamadarsha/Finance-News-Analyser)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://assignment-ten-iota-73.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [Career Seek](https://github.com/iamadarsha/Career-Seek)
+**Local-First AI Job Search OS**
+
+```
+🎯 Problem   Job hunting is fragmented and manual
+⚡ Solution  AI scraper + scorer + coach in one app
+🧠 AI        Gemini · Groq · Ollama (multi-provider)
+📡 Sources   LinkedIn · Naukri · Wellfound · Indeed
+🚀 Stack     Next.js 15 · SQLite · Meilisearch · BullMQ
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-Career_Seek-22c55e?style=flat-square)](https://github.com/iamadarsha/Career-Seek)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍛 [Bhukkad](https://github.com/iamadarsha/Bhukkad)
+**Full-Stack Restaurant Operating System**
+
+```
+🎯 Problem   POS, KOT, and kitchen on 3 separate tools
+⚡ Solution  Single app covering full service loop
+🧠 Realtime  Socket.IO push across POS + kitchen
+👥 Roles     5-role RBAC: Owner/Manager/Cashier/...
+🚀 Stack     Next.js 15 · Socket.IO · Drizzle · SQLite
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-Bhukkad-22c55e?style=flat-square)](https://github.com/iamadarsha/Bhukkad)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [FlowKeys](https://github.com/iamadarsha/FlowKeys)
+**Native macOS AI Dictation Tool**
+
+```
+🎯 Problem   No Hindi+English multilingual dictation
+⚡ Solution  BYO-key AI dictation, zero cloud lock
+🧠 AI        Whisper · Gemini · OpenAI (swappable)
+🍎 Platform  Native Swift/SwiftUI macOS app
+🚀 Ships     .dmg installer, Keychain credential store
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-FlowKeys-22c55e?style=flat-square)](https://github.com/iamadarsha/FlowKeys)
+
+</td>
+<td width="50%" valign="top">
+
+### 👟 [SoleMate](https://github.com/iamadarsha/Shoe-Finder-App)
+**AI Running Shoe Finder for Indian Runners**
+
+```
+🎯 Problem   260 models, zero biomechanics guidance
+⚡ Solution  5-question quiz → matched shoe + AI chat
+🧠 AI        Gemini-powered recommendation engine
+📦 Data      260 shoes · 16 brands · India pricing
+🚀 Stack     React 18 · Vite · Vercel Edge Functions
+```
+
+[![View Repo](https://img.shields.io/badge/View_Repo-SoleMate-22c55e?style=flat-square)](https://github.com/iamadarsha/Shoe-Finder-App)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000?style=flat-square&logo=vercel)](https://shoe-finder-app-gsdz.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 AI Stack Fluency
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&duration=2000&pause=500&color=f59e0b&center=true&vCenter=true&width=700&lines=I+don%27t+just+prompt+AI.+I+architect+AI+products." alt="AI architecture" />
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  MODELS I SHIP WITH                                                         │
+│                                                                             │
+│  🔵 Gemini 2.5 Flash / 3.1 Pro    Primary reasoning, document analysis     │
+│  🟠 Groq LLaMA 4 / LLaMA 3.3      Sub-100ms inference, fallback chains     │
+│  🟣 Claude Sonnet                  Complex reasoning, code generation       │
+│  🟢 OpenAI GPT-4.1                 Embeddings, structured output            │
+│  ⚫ Whisper / faster-whisper       Audio transcription, Hindi+English       │
+│  🟡 Ollama (local)                 Offline inference, privacy-first flows   │
+│                                                                             │
+│  PATTERNS I BUILD                                                           │
+│                                                                             │
+│  → Dual-model fallback chains      Primary fails → secondary in <50ms      │
+│  → Evidence-cited AI               Every claim grounded in source docs     │
+│  → RAG pipelines                   Local vector store + retrieval context  │
+│  → Prompt engineering              Operator-grade system prompts            │
+│  → Agentic workflows               Multi-step reasoning + tool use         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 🔧 Technical Fluency
+
+> *The PM who writes the spec, reviews the PR, unblocks the engineer, and deploys the demo.*
+
+</div>
 
 <div align="center">
 
@@ -107,71 +260,200 @@ Operator Tools        Internal dashboards, admin workflows, creator studios, job
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
 ![Swift](https://img.shields.io/badge/Swift-f05138?style=for-the-badge&logo=swift&logoColor=fff)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Redis](https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-044a64?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
-![Google Gemini](https://img.shields.io/badge/Gemini-fbbc04?style=for-the-badge&logo=google&logoColor=111)
+
+![Gemini](https://img.shields.io/badge/Gemini-fbbc04?style=for-the-badge&logo=google&logoColor=111)
+![Groq](https://img.shields.io/badge/Groq-f54e42?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-cc785c?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-111?style=for-the-badge)
 
 </div>
 
-```text
-Frontend      React, Next.js, Vite, Tailwind CSS, shadcn/Radix UI, Framer Motion
-Backend       FastAPI, Node.js, Next.js Route Handlers, REST APIs, WebSockets
-Data          PostgreSQL, Supabase, Neon, SQLite, Redis, Drizzle ORM
-AI/GenAI      Gemini, Groq, OpenAI/Codex, Claude, faster-whisper, prompt & workflow design
-Infra         Vercel, Railway, Render, Docker, Cloudflare R2, Upstash
-Product       PRDs, user research, MVP scoping, UX strategy, GTM thinking, product storytelling
+<br/>
+
+```
+Frontend   │  React · Next.js · Vite · Tailwind CSS · shadcn/ui · Radix · Framer Motion
+Backend    │  FastAPI · Node.js · Next.js Route Handlers · REST · WebSockets · Socket.IO
+Data       │  PostgreSQL · Supabase · NeonDB · SQLite · Redis · Drizzle ORM · Meilisearch
+AI/GenAI   │  Gemini · Groq · OpenAI · Claude · Whisper · RAG · prompt engineering
+Infra      │  Vercel · Railway Pro · Render · Docker · Cloudflare R2 · Upstash · Fly.io
+Product    │  PRDs · user research · MVP scoping · UX strategy · GTM · product storytelling
+Native     │  Swift · SwiftUI · macOS APIs · Keychain · DMG packaging
 ```
 
-## How I Work as a PM
-
-- **Define clearly** — write PRDs that engineers can build from without a follow-up meeting
-- **Prototype fast** — use GenAI tooling to validate ideas before committing engineering cycles
-- **Ship end-to-end** — own the product from problem discovery to live deployment
-- **Stay evidence-first** — no hallucinated features, no vibe-only specs; ground everything in user signal
-- **Close the loop** — post-launch metrics, user feedback, and iteration are part of the job
-
-## Current Focus
-
-- Building AI-first fintech and consumer products with clear user value and live demos
-- Improving GenAI product quality through evidence-cited answers, safer defaults, and better operator UX
-- Deepening product intuition in finance, compliance, and trading intelligence workflows
-- Positioning as an AI-first PM who can own the full product surface — strategy to shipped code
-
-## GitHub Activity
+---
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamadarsha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadarsha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadarsha&theme=github_dark" alt="GitHub profile summary" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamadarsha&theme=github-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+## 🗺️ Product Domain Map
 
 </div>
 
-## Ask Me About
+```
+╔══════════════════╦══════════════════════════════════════════════════════════╗
+║ 📈 FINTECH       ║ Stock screeners · Options strategy · Compliance intel    ║
+║                  ║ Regulatory AI · Trading workflows · Algo platforms       ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ 🛍️ CONSUMER TECH ║ Recommendation engines · Food-tech OS · Learning platforms║
+║                  ║ Productivity tools · Running gear · Job search OS        ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ 🤖 GENAI         ║ LLM pipelines · Evidence-cited AI · Prompt engineering   ║
+║                  ║ Transcription · Fallback chains · Agentic workflows      ║
+╠══════════════════╬══════════════════════════════════════════════════════════╣
+║ 🏗️ OPERATOR TOOLS║ Internal dashboards · Admin workflows · Creator studios  ║
+║                  ║ Job-search systems · Restaurant OS · Learning hubs       ║
+╚══════════════════╩══════════════════════════════════════════════════════════╝
+```
 
-| Area | Examples |
-|---|---|
-| GenAI product design | LLM fallback chains, evidence-cited answers, transcription pipelines, recommendation systems |
-| Fintech PM | Market screeners, compliance monitoring, options strategy tooling, regulatory intelligence |
-| Consumer tech | Recommendation engines, food-tech OS, learning platforms, productivity apps |
-| 0-to-1 shipping | Problem framing, MVP scoping, tech architecture, UX defaults, live deployment |
-
-## Open To
-
-AI-first Product Manager, GenAI Product Manager, and Technical PM roles in fintech, consumer tech, or AI infrastructure — where I can own ambiguous problems, define the right product, and ship it end-to-end.
-
-## Contact
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_live_site-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
-[![Email](https://img.shields.io/badge/Email-Say_hello-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
+## 🏛️ How I Work as a PM
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**📐 Define Clearly**
+
+Write PRDs that engineers can build from without a follow-up meeting. Every spec has a problem statement, success metric, edge case, and rejection criteria.
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Prototype Fast**
+
+Use GenAI tooling to validate ideas before committing engineering cycles. A deployed prototype beats a 40-slide deck every time.
+
+</td>
+<td width="33%" align="center">
+
+**🚢 Ship End-to-End**
+
+Own the product from problem discovery to live deployment. No handoff rot. No translation loss. One accountable owner.
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+**🔬 Stay Evidence-First**
+
+No hallucinated features. No vibes-only specs. Every decision is grounded in user signal, data, or a falsifiable hypothesis.
+
+</td>
+<td width="33%" align="center">
+
+**🔄 Close the Loop**
+
+Post-launch metrics, user feedback, and iteration are part of the job — not someone else's problem after the PR merges.
+
+</td>
+<td width="33%" align="center">
+
+**🌍 India-First Lens**
+
+Products built for Indian market realities — INR pricing, multilingual UX, NSE/BSE data, and regulatory context that global tools miss.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamadarsha&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=f59e0b&text_color=c9d1d9" height="180" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadarsha&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="Top languages" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamadarsha&theme=github-dark&hide_border=true&area=true&color=58a6ff&line=f59e0b&point=ffffff" alt="Activity graph" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamadarsha&theme=github_dark" alt="Profile summary" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Currently Building
+
+</div>
+
+```
+🔵  BreakoutScan          Expanding scan engine + launching mobile app (Expo)
+🟠  Career Seek           Hardening job scraping tiers + AI coach accuracy
+🟣  FlowKeys              SwiftUI redesign + new AI provider integrations  
+🟢  Algo Options Platform  Live Upstox integration + backtester refinement
+```
+
+---
+
+<div align="center">
+
+## 💬 Ask Me About
+
+</div>
+
+| 🧩 Area | 💡 What I Can Speak To |
+|---|---|
+| 🤖 **GenAI product design** | LLM fallback chains, evidence-cited answers, transcription pipelines, prompt engineering, RAG |
+| 📈 **Fintech PM** | Market screeners, compliance monitoring, options strategy tooling, regulatory intelligence |
+| 🛍️ **Consumer tech** | Recommendation engines, food-tech OS, learning platforms, productivity apps |
+| 🔨 **0-to-1 shipping** | Problem framing, MVP scoping, tech architecture, UX defaults, live deployment |
+| 🏃 **Running + Performance** | Training zone optimization, shoe biomechanics, distance running systems |
+
+---
+
+<div align="center">
+
+## 🌏 Open To
+
+</div>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│   AI-First Product Manager  ·  GenAI PM  ·  Technical PM          │
+│                                                                    │
+│   Fintech  ·  Consumer Tech  ·  AI Infrastructure  ·  EdTech      │
+│                                                                    │
+│   Where I own ambiguous problems, define the right product,        │
+│   and ship it — end-to-end.                                        │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live_Site-facc15?style=for-the-badge)](https://lego-portfolio-ochre.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/iamadarsha)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-ef4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:adarsha.chatterjee@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+<br/>
+
+*Built in public · Shipped in production · AI-first by default*
+
+![Visitors](https://komarev.com/ghpvc/?username=iamadarsha&style=flat-square&color=58a6ff)
 
 </div>
