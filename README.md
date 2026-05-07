@@ -1,34 +1,36 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HERO HEADER                           -->
+<!--                     ANIMATED HERO WITH GRADIENT BACKGROUND         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter:wght@700&size=42&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=ADARSHA+CHATTERJEE;AI+Product+Manager;GenAI+Builder;NSE-Certified;The+PM+who+closes+the+loop." alt="Animated name" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1a2e,60:16213e,100:0f3460&height=340&section=header&text=ADARSHA%20CHATTERJEE&fontColor=ffffff&fontSize=56&fontAlign=50&fontAlignY=38&desc=AI%20Product%20Manager%20%C2%B7%20GenAI%20Builder%20%C2%B7%20NSE-Certified&descColor=58A6FF&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter:wght@400&size=18&duration=2800&pause=700&color=C9D1D9&center=true&vCenter=true&width=800&lines=7+Products+Shipped+%7C+500%2B+Users+%7C+99.7%25+Uptime;Fintech+AI+%C2%B7+LLM-Powered+Products+%C2%B7+Regulatory+Compliance;I+define+it.+%C2%B7+I+prototype+it.+%C2%B7+I+ship+it.+%C2%B7+I+scale+it." alt="Taglines" />
+<!-- ANIMATED TYPING TAGLINES -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter:wght@400&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=950&lines=7+Products+Shipped+%F0%9F%9A%80;500%2B+Concurrent+Users+%C2%B7+99.7%25+Uptime+%E2%9A%A1;Fintech+AI+%C2%B7+LLM-Powered+Products+%C2%B7+Regulatory+Compliance+%F0%9F%8C%90;I+define+it.+%C2%B7+I+prototype+it.+%C2%B7+I+ship+it.+%C2%B7+I+scale+it.+%F0%9F%94%A5;The+PM+who+closes+the+loop.+%E2%9C%85" alt="Animated taglines" />
 
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     BADGE BAR                                       -->
+<!--                     BADGE BAR WITH GRADIENT                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-facc15?style=for-the-badge&logo=vercel&logoColor=black)](https://iamadarsha.in)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamadarsha)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsha.chatterjee@gmail.com)
-[![NSE Certified](https://img.shields.io/badge/🏛️_NSE-Certified_Analyst-1a1a2e?style=for-the-badge&logoColor=white)](https://)
+[![NSE](https://img.shields.io/badge/🏛️_NSE-Certified_Analyst-1a1a2e?style=for-the-badge&logoColor=white)](https://)
 [![Location](https://img.shields.io/badge/📍_Pune,_India-Open_to_Remote-22c55e?style=for-the-badge&logoColor=white)](https://)
+[![GitHub](https://img.shields.io/badge/⚡_GitHub-iamadarsha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamadarsha)
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     VISUAL DIVIDER                                  -->
+<!--                     ANIMATED GRADIENT DIVIDER                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f3460&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f3460&height=4&width=100%25" width="100%"/>
 
 </div>
 
@@ -80,9 +82,11 @@
 
 <br/>
 
-<!-- ═══════ BREAKOUTSCAN ═══════ -->
+<!-- ═══════ BREAKOUTSCAN WITH GRADIENT HEADER ═══════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=50&text=BREAKOUTSCAN&fontColor=58A6FF&fontSize=20&fontAlign=50&fontAlignY=55" width="100%"/>
 
 ### 📊 [BreakoutScan](https://github.com/iamadarsha/Codex-Screener) — AI Stock Intelligence Platform
 
@@ -105,9 +109,11 @@
 
 <br/>
 
-<!-- ═══════ FIRSTSTEP ═══════ -->
+<!-- ═══════ FIRSTSTEP WITH GRADIENT HEADER ═══════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,50:0f3460,100:1a1a2e&height=50&text=FIRSTSTEP&fontColor=f59e0b&fontSize=20&fontAlign=50&fontAlignY=55" width="100%"/>
 
 ### 🛡️ [FirstStep](https://github.com/iamadarsha/FirstStep) — Guided Investing for India's 100M+ Retail Investors
 
@@ -128,9 +134,11 @@
 
 <br/>
 
-<!-- ═══════ REGULATORY INTEL ═══════ -->
+<!-- ═══════ REGULATORY INTEL WITH GRADIENT HEADER ═══════ -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f3460,50:533483,100:1a1a2e&height=50&text=REGULATORY_INTEL&fontColor=22c55e&fontSize=20&fontAlign=50&fontAlignY=55" width="100%"/>
 
 ### 🏛️ [Regulatory Intel](https://github.com/iamadarsha/Finance-News-Analyser) — AI Compliance Radar
 
@@ -154,14 +162,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f3460&height=2&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:0f3460&height=3&width=100%25" width="100%"/>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     STRONG SIGNALS                                -->
+<!--                     STRONG SIGNALS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -193,7 +201,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     AI ARCHITECTURE                               -->
+<!--                     AI ARCHITECTURE                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -230,7 +238,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     PRODUCT METRICS                               -->
+<!--                     PRODUCT METRICS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -333,7 +341,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CERTIFICATIONS & RECOGNITION                  -->
+<!--                     CERTIFICATIONS & RECOGNITION                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -364,7 +372,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                                    -->
+<!--                     TECH STACK                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -428,7 +436,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ACTIVITY                               -->
+<!--                     GITHUB ACTIVITY                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -461,7 +469,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     OPEN TO / CTA                                -->
+<!--                     OPEN TO / CTA                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -487,12 +495,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     FOOTER                                        -->
+<!--                     FOOTER                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:302b63,60:533483,100:0f0c29&height=100&section=footer&text=Built+in+public+%C2%B7+Shipped+in+production+%C2%B7+AI-first+by+default&fontColor=ffffff&fontSize=12&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,30:302b63,60:533483,100:0f0c29&height=120&section=footer&text=Built+in+public+%C2%B7+Shipped+in+production+%C2%B7+AI-first+by+default&fontColor=ffffff&fontSize=14&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
